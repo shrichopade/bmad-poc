@@ -1,0 +1,6 @@
+portfolio_id,ticker,asset_class,quantity,market_value,country,sector
+P-100,AAPL,Equity,100,15000,US,Technology
+P-100,TSLA,Equity,50,28000,US,Automotive
+P-100,MSFT,Equity,20,7000,US,Technology
+P-100,PLTR,Equity,80,9000,US,Retail
+
