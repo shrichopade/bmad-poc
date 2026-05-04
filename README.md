@@ -1,10 +1,6 @@
 # BMAD PoC - AI Agent with Compliance Framework
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-active-brightgreen) 
-
-A proof-of-concept implementation of the BMAD methodology for building intelligent AI agents with built-in compliance checking and portfolio advisory capabilities.
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)![License](https://img.shields.io/badge/license-MIT-green)![Status](https://img.shields.io/badge/status-active-brightgreen)> A proof-of-concept implementation of the BMAD methodology for building intelligent AI agents with built-in compliance checking and portfolio advisory capabilities.
 
 ## Overview
 
